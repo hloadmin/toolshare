@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Error</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" >
+	<!--[if lt IE 9]>
+		<script src="lib/bootstrap/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/bootstrap-1094435file.csa" />
+	<link rel="stylesheet" type="text/css" href="styles-en_US-1094435.csa" />
+
+	</head>
+	<body >
+		<form name="mainForm" method="post" action="" id="mainForm">
+			<div id="mainSection" style="overflow:auto;">
+				<div style="padding:10px">
+					<div style="border: 3px solid #DD3127; padding: 8px 12px;">
+						<table>
+							<tbody>
+								<tr>
+									
+									<td><img src="/images/icons/critical.svg" height="48" width="48" /></td>
+									
+									<td><b><span style="font-size: 14px;">HTTP Status 400 - Internal server error. The server encountered an internal error and was unable to complete your request. Please contact support if this error occurs again.</span></b></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		<div class="formFooter" style="display:none">
+</div>
+</form>
+
+	</body>
+</html>
